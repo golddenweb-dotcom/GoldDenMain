@@ -108,9 +108,11 @@ export default function BestSellers() {
                     <span className="text-cobalt font-semibold">
                       {product.price}
                     </span>
+                    <a href="https://buy.stripe.com/test_dRm9ATeGd8Scd0Iciya3u00">
                     <button className="bg-cobalt text-white px-4 py-2 text-sm font-medium hover:bg-cobalt-dark transition-colors">
-                      Add to Bag
+                      Buy Now
                     </button>
+                    </a>
                   </div>
                 </div>
               </div>
